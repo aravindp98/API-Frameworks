@@ -31,4 +31,4 @@ To rerun failed tests
 pipenv run robot --rerunfailed output.xml TestCases/Reqres_API_Tests.robot
 ```
 
-#New Test auto_trigger 
+#New auto Test auto_trigger 
